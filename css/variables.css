@@ -9,11 +9,11 @@
   --footer-bg: #f9f1ee;
 
   /* Used fonts */
-  --title-font: clamp(28px, 2.3vw, 44px);
-  --second-title-font: clamp(24px, 1.6vw, 32px);
-  --third-title-font: clamp(18px, 1.25vw, 24px);
+  --title-font: clamp(28px, 4vw, 46px);
+  --second-title-font: clamp(24px, 2.2vw, 32px);
+  --third-title-font: clamp(18px, 1.6vw, 24px);
 
-  --subtitle-font: clamp(16px, 0.9vw, 18px);
+  --subtitle-font: 1rem;
 
   /* Unused */
   /* --footer-font: clamp(14px, 0.8vw, 16px); */
